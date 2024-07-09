@@ -8,7 +8,7 @@ REACT 2024 Q3 (2024-07-01/...) (REACT) in progress...
 
 ## [RS School](https://rs.school/)  
 
-[JavaScript/Front-end 2023Q4 (2023-11-05/2024-06-29) (JAVASCRIPT) online Certificate](https://app.rs.school/certificate/qerquhoj)
+JavaScript/Front-end 2023Q4 (2023-11-05/2024-06-29) [online Certificate](https://app.rs.school/certificate/qerquhoj)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -20,7 +20,7 @@ REACT 2024 Q3 (2024-07-01/...) (REACT) in progress...
 
 ## [RS School](https://rs.school/)  
 
-[JS/FE PRE-SCHOOL 2023Q2 (2023-06-26/2023-10-23) (JAVASCRIPT) online Certificate](https://app.rs.school/certificate/44radoj6)
+JS/FE PRE-SCHOOL 2023Q2 (2023-06-26/2023-10-23) (JAVASCRIPT) [online Certificate](https://app.rs.school/certificate/44radoj6)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
