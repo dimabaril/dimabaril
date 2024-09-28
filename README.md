@@ -2,7 +2,7 @@
 
 ## [RS School](https://rs.school/)  
 
-REACT 2024 Q3 (2024-07-01/...) (REACT) in progress...
+REACT 2024 Q3 (2024-07-01/2024-09-25) (REACT) [online Certificate](https://app.rs.school/certificate/hzwxc4my)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
